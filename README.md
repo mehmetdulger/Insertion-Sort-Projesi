@@ -1,5 +1,5 @@
 # Insertion-Sort-Projesi
-Veri Yapıları ve Algoritmalar bölümünde patika.dev tarafından verilen Insertion Sort Projesi
+Veri Yapıları ve Algoritmalar bölümünde patika.dev tarafından verilen [Insertion Sort Projesi](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje)
 
 **[22,27,16,2,18,6] dizisinin insertion sort türüne göre aşamaları:**
 
